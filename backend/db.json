@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Curso Quasar Crud",
+      "author": "Lucas Augusto",
+      "content": "Este é um artigo sobre Vue 3, Quasar e API REST."
+    },
+    {
+      "id": 2,
+      "title": "Curso Quasar Crud",
+      "author": "Lucas Augusto",
+      "content": "Este é um artigo sobre Vue 3, Quasar e API REST."
+    },
+    {
+      "id": 3,
+      "title": "Curso Quasar Crud",
+      "author": "Lucas Augusto",
+      "content": "Este é um artigo sobre Vue 3, Quasar e API REST."
+    }
+  ]
+}
